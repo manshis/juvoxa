@@ -1,0 +1,8 @@
+.chart-container {
+  border-radius: 2px;
+  padding: 4%;
+  box-shadow: 0 0 6px #bfbfbf;
+  margin: 0 2%;
+  width: 100%;
+  background-color: #ffffff;
+}
