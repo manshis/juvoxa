@@ -1,5 +1,5 @@
 import React from "react";
-import { useHistory, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import { Button, PageHeader } from "antd";
 import { LineChartOutlined, TableOutlined } from "@ant-design/icons";
@@ -7,7 +7,6 @@ import { LineChartOutlined, TableOutlined } from "@ant-design/icons";
 import "../../assets/main.css";
 
 function HomePage() {
-  const history = useHistory();
   return (
     <>
       <div>
